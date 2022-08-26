@@ -1,3 +1,4 @@
 contracts/artifacts/*
 tests/artifacts/*
 .git/*
+.deps/*
